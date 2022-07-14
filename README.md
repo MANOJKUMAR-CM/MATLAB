@@ -10,8 +10,10 @@ A) Digital Communication Experiments:
 	2.Amplitude Modulation, Coherent Demodulation and Envelope Detection.
 
 	3.Ideal Sampling and Reconstruction.
+	
+	4.Generation of PAM Signals
 
-	4.Projects
+	5.Projects
  B) Digital Signal Processing Experiments:
  	
 	1.Verification of Sampling Theorem
